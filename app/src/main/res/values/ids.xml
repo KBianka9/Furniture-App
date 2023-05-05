@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="l_sofaTextView" type="id"/>
+    <item name="white_sofaTextView" type="id"/>
+    <item name="view_alert_count_textview" type="id"/>
+</resources>

@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Furniture webshop</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítés</string>
+    <string name="cancel">Mégse</string>
+    <string name="phoneNumber">Telefonszám</string>
+    <string name="buyer">Vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="loginasguest">Bejelentkezés vendégként</string>
+    <string-array name="phone_modes">
+        <item>Mobil</item>
+        <item>Munkahelyi</item>
+        <item>Egyéb</item>
+    </string-array>
+
+<!--    RecycleView resources-->
+    <string name="item_placeholder">Termék leírás</string>
+    <string name="item_info_placeholder">Termék infó</string>
+    <string name="delete">Törlés</string>
+    <string name="to_cart">Kosárba</string>
+    <string name="search">Keresés</string>
+    <string name="cart">Kosár</string>
+    <string name="view">Nézet</string>
+    <string name="setting_button">Beállítások</string>
+    <string name="logout_button">Kijelentkezés</string>
+
+    <string-array name="shopping_item_name">
+        <item>Kanapé</item>
+        <item>Komód</item>
+        <item>Fotel</item>
+        <item>Kanapé</item>
+        <item>Puff</item>
+        <item>Dohányzó asztal</item>
+        <item>Komód</item>
+        <item>Szekrény</item>
+        <item>Puff</item>
+        <item>Dohányzó asztal</item>
+        <item>Szekrény</item>
+        <item>Szekrény</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Ez egy kényelmes, fehér kanapé!</item>
+        <item>Ez egy komód!</item>
+        <item>Ez egy fotel!</item>
+        <item>Ez egy L alakú kanapé!</item>
+        <item>Ez egy puff!</item>
+        <item>Ez egy dohányzó asztal!</item>
+        <item>Ez egy komód!</item>
+        <item>Ez egy szekrény!</item>
+        <item>Ez egy puff!</item>
+        <item>Ez egy dohányzó asztal!</item>
+        <item>Ez egy szekrény!</item>
+        <item>Ez egy szekrény!</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>3.5</item>
+        <item>3</item>
+        <item>3.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4.5</item>
+        <item>3.5</item>
+        <item>3</item>
+        <item>3.5</item>
+        <item>4.5</item>
+        <item>5</item>
+        <item>4.5</item>
+    </array>
+
+    <array name="shopping_item_imgs">
+        <item>@drawable/white_sofa</item>
+        <item>@drawable/komod</item>
+        <item>@drawable/gray_armchair</item>
+        <item>@drawable/l_sofa</item>
+        <item>@drawable/pouffe</item>
+        <item>@drawable/coffee_table</item>
+        <item>@drawable/black_komod</item>
+        <item>@drawable/mirror_white_wardrobe</item>
+        <item>@drawable/white_pouffe</item>
+        <item>@drawable/glass_coffee_table</item>
+        <item>@drawable/white_brown_wardrobe</item>
+        <item>@drawable/white_wardrobe</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>200 000 Ft</item>
+        <item>55 000 Ft</item>
+        <item>60 000 Ft</item>
+        <item>280 000 Ft</item>
+        <item>12 000 Ft</item>
+        <item>22 000 Ft</item>
+        <item>64 000 Ft</item>
+        <item>500 000 Ft</item>
+        <item>35 000 Ft</item>
+        <item>40 000 Ft</item>
+        <item>450 000 Ft</item>
+        <item>320 000 Ft</item>
+    </array>
+</resources>
